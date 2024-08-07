@@ -12,3 +12,4 @@ Customization:
 You can customize every aspect of your plots, including colors, labels, line styles, and more.
 
 Matplotlib integrates well with other libraries like pandas for data manipulation and seaborn for statistical data visualization.
+line_plot.pdf
